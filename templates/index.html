@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Blood Report Analysis</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+
+<div class="container">
+    <div class="card center">
+        <h2>AI-Based Blood Report Analysis</h2>
+        <p>Upload a clear image of your laboratory blood report.</p>
+
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="blood_report" required>
+            <br><br>
+            <button class="btn">Analyze Report</button>
+        </form>
+
+        <br>
+        <a href="/" class="btn secondary">Back to Dashboard</a>
+    </div>
+</div>
+
+</body>
+</html>
+

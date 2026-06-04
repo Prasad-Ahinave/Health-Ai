@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Skin Disease Analysis</title>
+
+   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+    <div class="card center">
+        <h2>Skin Disease Analysis</h2>
+        <p>
+            Upload a clear image of the affected skin area.
+            This system provides preliminary AI-assisted analysis only.
+        </p>
+
+        <form method="POST" action="/skin-analyze" enctype="multipart/form-data">
+            <input type="file" name="skin_image" required>
+            <br><br>
+            <button class="btn">Analyze Skin Image</button>
+        </form>
+
+        <br>
+        <a href="/" class="btn secondary">Back to Dashboard</a>
+    </div>
+</div>
+
+
+
+</body>
+</html>

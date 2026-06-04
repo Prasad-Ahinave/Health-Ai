@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload History</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="page-title">Upload History</div>
+
+    {% if history %}
+        {% for record in history %}
+        <div class="card">
+            <p><strong>Uploaded on:</strong> {{ record.time }}</p>
+
+            <table>
+                <tr>
+                    <th>Test</th>
+                    <th>Value</th>
+                    <th>Status</th>
+                </tr>
+
+                {% for item in record.results %}
+                <tr>
+                    <td>{{ item.test }}</td>
+                    <td>{{ item.value }}</td>
+                    <td>
+                        <span class="badge {{ item.status|lower }}">
+                            {{ item.status }}
+                        </span>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        {% endfor %}
+    {% else %}
+        <div class="card center">
+            <p>No upload history available.</p>
+        </div>
+    {% endif %}
+
+    <div class="center">
+        <a href="/" class="btn secondary">Back to Dashboard</a>
+    </div>
+
+</div>
+
+</body>
+</html>

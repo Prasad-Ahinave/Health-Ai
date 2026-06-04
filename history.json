@@ -1,0 +1,2752 @@
+[
+  {
+    "time": "2026-03-14 13:32:18.326365",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-14 13:35:12.815813",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-14 13:37:24.548032",
+    "results": []
+  },
+  {
+    "time": "2026-03-14 13:37:59.693048",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:11:10.928739",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:20:21.912425",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 8.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 6.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "AST",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 2.96,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 2.96,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 2.96,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:32:41.087171",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:33:18.826316",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:35:33.308228",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 8.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 6.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "AST",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 2.96,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 2.96,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 2.96,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:44:02.158556",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 8.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:54:20.631444",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 91.92,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 10:54:24.256837",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 91.92,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 1.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 11:03:35.600767",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 91.92,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 5.38,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-03-15 11:06:04.888424",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 91.92,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 5.38,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  },
+  {
+    "time": "2026-04-24 12:12:57.640006",
+    "results": [
+      {
+        "test": "Hemoglobin",
+        "value": 9.8,
+        "status": "Low",
+        "suggestion": "Low hemoglobin indicates possible anemia. Increase iron-rich foods and consult a doctor."
+      },
+      {
+        "test": "WBC",
+        "value": 5200.0,
+        "status": "Normal",
+        "suggestion": "WBC count is normal."
+      },
+      {
+        "test": "Platelets",
+        "value": 366000.0,
+        "status": "Normal",
+        "suggestion": "Platelet count is normal."
+      },
+      {
+        "test": "MCV",
+        "value": 73.0,
+        "status": "Low",
+        "suggestion": "Low MCV indicates microcytic anemia."
+      },
+      {
+        "test": "MCH",
+        "value": 23.0,
+        "status": "Low",
+        "suggestion": "Low MCH suggests hypochromic anemia."
+      },
+      {
+        "test": "MCHC",
+        "value": 32.0,
+        "status": "Normal",
+        "suggestion": "MCHC is normal."
+      },
+      {
+        "test": "Glucose",
+        "value": 91.92,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Calcium",
+        "value": 9.93,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Sodium",
+        "value": 141.9,
+        "status": "Normal",
+        "suggestion": "Sodium level is normal and helps maintain fluid balance."
+      },
+      {
+        "test": "Potassium",
+        "value": 4.62,
+        "status": "Normal",
+        "suggestion": "Potassium level is normal and supports nerve and muscle function."
+      },
+      {
+        "test": "Creatinine",
+        "value": 0.69,
+        "status": "Normal",
+        "suggestion": "Creatinine level is normal indicating proper kidney filtration."
+      },
+      {
+        "test": "Urea",
+        "value": 16.79,
+        "status": "Normal",
+        "suggestion": "Urea level is normal."
+      },
+      {
+        "test": "Uric Acid",
+        "value": 11.39,
+        "status": "High",
+        "suggestion": "High uric acid may lead to gout or kidney stones."
+      },
+      {
+        "test": "ALT",
+        "value": 26.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "AST",
+        "value": 19.24,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Bilirubin",
+        "value": 0.36,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Albumin",
+        "value": 4.01,
+        "status": "Normal",
+        "suggestion": "Albumin level is normal."
+      },
+      {
+        "test": "CRP",
+        "value": 33.07,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "ESR",
+        "value": 15.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "HbA1c",
+        "value": 5.38,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Cholesterol",
+        "value": 159.08,
+        "status": "Normal",
+        "suggestion": "Total cholesterol is normal."
+      },
+      {
+        "test": "Triglycerides",
+        "value": 70.54,
+        "status": "Normal",
+        "suggestion": "Triglycerides are normal."
+      },
+      {
+        "test": "HDL",
+        "value": 36.59,
+        "status": "Low",
+        "suggestion": "Low HDL increases heart risk."
+      },
+      {
+        "test": "LDL",
+        "value": 108.38,
+        "status": "Normal",
+        "suggestion": "LDL is normal."
+      },
+      {
+        "test": "VLDL",
+        "value": 14.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "ALP",
+        "value": 101.29,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Total Protein",
+        "value": 7.83,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Globulin",
+        "value": 3.82,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      },
+      {
+        "test": "A/G Ratio",
+        "value": 1.05,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "BUN",
+        "value": 8.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "Chloride",
+        "value": 100.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "eGFR",
+        "value": 127.0,
+        "status": "Normal",
+        "suggestion": "This parameter is within the healthy reference range."
+      },
+      {
+        "test": "PCV",
+        "value": 31.0,
+        "status": "Low",
+        "suggestion": "This parameter is lower than the normal range. Medical consultation may be recommended."
+      },
+      {
+        "test": "RDW",
+        "value": 18.1,
+        "status": "High",
+        "suggestion": "This parameter is higher than the normal range. Please consult a healthcare professional."
+      }
+    ]
+  }
+]

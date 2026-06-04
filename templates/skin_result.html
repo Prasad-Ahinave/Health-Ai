@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Skin Analysis Result</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="page-title">Skin Disease Analysis Result</div>
+
+    <div class="card center">
+        <h2>Predicted Condition</h2>
+        <div class="disease-name">
+    {{ result.label }}
+</div>
+
+<div class="confidence-text">
+    Confidence: {{ result.confidence }}%
+</div>
+
+
+       <p class="disclaimer-text">
+    This result is generated using a CNN-based model and is intended
+    for educational and preliminary analysis only.
+</p>
+                      
+    </div>
+
+    <div class="card">
+        <h2>Recommended Action</h2>
+        <p>
+            If symptoms persist or worsen, please consult a certified
+            dermatologist for clinical diagnosis and treatment.
+        </p>
+    </div>
+
+    <div class="center">
+        <a href="/skin" class="btn">Analyze Another Image</a>
+        <a href="/" class="btn secondary">Back to Dashboard</a>
+    </div>
+
+</div>
+
+</body>
+</html>

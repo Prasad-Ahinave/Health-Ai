@@ -1,0 +1,151 @@
+/* =============================
+   HEALTH-AI PREMIUM UI THEME
+   ============================= */
+
+body {
+    margin: 0;
+    font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+    background: linear-gradient(180deg, #f7fbfd, #eef5f8);
+    color: #102a43;
+}
+
+/* Layout */
+.container {
+    max-width: 1100px;
+    margin: 60px auto;
+    padding: 20px;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 45px;
+    color: #0b3c5d;
+}
+
+/* Cards */
+.card {
+    background: #ffffff;
+    border-radius: 26px;
+    padding: 40px;
+    margin-bottom: 35px;
+    box-shadow:
+        0 25px 50px rgba(11, 60, 93, 0.08),
+        0 8px 20px rgba(11, 60, 93, 0.04);
+}
+
+.card h2 {
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #0b3c5d;
+}
+
+.card p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #486581;
+    margin-bottom: 22px;
+}
+
+/* Center */
+.center {
+    text-align: center;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 13px 30px;
+    border-radius: 16px;
+    border: none;
+    background: linear-gradient(135deg, #38bdf8, #22c55e);
+    color: #053b32;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 30px rgba(56, 189, 248, 0.35);
+}
+
+.btn.secondary {
+    background: transparent;
+    border: 1.5px solid #cbd5e1;
+    color: #0b3c5d;
+}
+
+/* Forms */
+input[type="file"] {
+    font-size: 14px;
+    padding: 6px;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 25px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+th {
+    background: #0b3c5d;
+    color: white;
+    padding: 14px;
+    font-size: 14px;
+}
+
+td {
+    padding: 14px;
+    font-size: 14px;
+    border-bottom: 1px solid #e3edf4;
+}
+
+/* Status pills */
+.badge {
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.low {
+    background: #fde2e2;
+    color: #9b1c1c;
+}
+
+.normal {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.high {
+    background: #fff7ed;
+    color: #9a3412;
+}
+/* Skin Result Highlight */
+.disease-name {
+    font-size: 26px;
+    font-weight: 700;
+    color: #0ea5a4; /* Teal highlight */
+    margin-top: 10px;
+}
+
+.confidence-text {
+    font-size: 15px;
+    color: #475569; /* Soft gray-blue */
+    margin-top: 6px;
+}
+
+.disclaimer-text {
+    font-size: 14px;
+    color: #64748b;
+    margin-top: 16px;
+}
+

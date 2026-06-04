@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health-AI Dashboard</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="page-title">Health-AI Dashboard</div>
+
+    <div class="card">
+        <h2>🧪 Blood Report Analysis</h2>
+        <p>
+            Upload laboratory blood reports and receive
+            AI-assisted interpretation with clear medical insights.
+        </p>
+        <a href="/upload" class="btn">Analyze Blood Report</a>
+    </div>
+
+    <div class="card">
+        <h2>🩺 Skin Disease Analysis</h2>
+        <p>
+            Upload images of affected skin areas for
+            CNN-based disease classification.
+        </p>
+        <a href="/skin" class="btn">Analyze Skin Image</a>
+    </div>
+
+    <div class="card">
+        <h2>📂 Records & Information</h2>
+        <a href="/history" class="btn secondary">Upload History</a>
+        <a href="/disclaimer" class="btn secondary">Medical Disclaimer</a>
+    </div>
+
+</div>
+
+
+</body>
+</html>
