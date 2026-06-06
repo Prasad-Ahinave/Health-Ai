@@ -13,6 +13,8 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 from pdf2image import convert_from_path
+import keras
+from keras.models import load_model
 # ------------------ TESSERACT ------------------
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
@@ -21,7 +23,37 @@ app = Flask(__name__)
 app.secret_key = "healthai-secret"
 
 # ------------------ LOAD SKIN CNN MODEL (ONLY ONCE) ------------------
-SKIN_MODEL = load_model("skin_model.h5")
+# SKIN_MODEL = load_model("skin_model.h5")
+
+# SKIN_CLASSES = [
+#     "Acne",
+#     "Eczema",
+#     "Psoriasis",
+#     "Fungal Infection",
+#     "Normal Skin"
+# ]
+
+
+# UPLOAD_FOLDER = "uploads"
+# HISTORY_FILE = "history.json"
+# os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+# if not os.path.exists(HISTORY_FILE):
+#     with open(HISTORY_FILE, "w") as f:
+#         json.dump([], f)
+# ------------------ LOAD SKIN CNN MODEL (ONLY ONCE) ------------------
+try:
+    SKIN_MODEL = load_model("skin_model.h5")
+except TypeError:
+    # Bypasses the 'batch_shape' and 'optional' version loading mismatch between local training and Render
+    from keras.layers import InputLayer
+    class SafeInputLayer(InputLayer):
+        def __init__(self, *args, **kwargs):
+            kwargs.pop('batch_shape', None)
+            kwargs.pop('optional', None)
+            super().__init__(*args, **kwargs)
+    
+    SKIN_MODEL = load_model("skin_model.h5", custom_objects={'InputLayer': SafeInputLayer})
 
 SKIN_CLASSES = [
     "Acne",
@@ -31,7 +63,6 @@ SKIN_CLASSES = [
     "Normal Skin"
 ]
 
-
 UPLOAD_FOLDER = "uploads"
 HISTORY_FILE = "history.json"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -39,7 +70,6 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 if not os.path.exists(HISTORY_FILE):
     with open(HISTORY_FILE, "w") as f:
         json.dump([], f)
-
 # ------------------ NORMAL RANGES ------------------
 NORMAL_RANGES = {
     #CBC
